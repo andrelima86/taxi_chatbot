@@ -46,15 +46,16 @@ curl_setopt_array($ch, $options);
 
 $response = curl_exec($ch);*/
 $response_message = json_encode($response_message);
-$ch = curl_init($url);
-curl_setopt($ch, CURLOPT_POST, true);
-curl_setopt($ch, CURLOPT_POSTFIELDS, $response_message);
-curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
-curl_exec($ch);
-$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-$curl_errno = curl_errno($ch);
-$curl_error = curl_error($ch);
-file_put_contents('log.txt', 'http code: ' . $http_code . ' curl error: ' . print_r($curl_error, true));
+if(!empty( $input['entry'][0]['messaging'][0]['message'])){
+	$ch = curl_init($url);
+	curl_setopt($ch, CURLOPT_POST, true);
+	curl_setopt($ch, CURLOPT_POSTFIELDS, $response_message);
+	curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
+	curl_exec($ch);
+	$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+	$curl_errno = curl_errno($ch);
+	$curl_error = curl_error($ch);
+};
 
 
 
