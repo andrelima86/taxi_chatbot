@@ -45,6 +45,7 @@ $options = array(
 curl_setopt_array($ch, $options);
 
 $response = curl_exec($ch);*/
+$response_message = json_encode($response_message);
 $ch = curl_init($url);
 curl_setopt($ch, CURLOPT_POST, true);
 curl_setopt($ch, CURLOPT_POSTFIELDS, $response_message);
