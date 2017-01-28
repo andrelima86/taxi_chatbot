@@ -26,7 +26,6 @@ $response_message = array(
 	'recipient' => array( 'id' => $user_id, ) ,
 	'message' => array( 'text' => 'Hello world', ) ,
 );
-file_put_contents('log.txt', $user_id . ' : ' . $response_message['message']['text']);
 
 // send responce to facebook
 $ch = curl_init();
@@ -34,8 +33,9 @@ $ch = curl_init();
 $header = array(
     'Content-Type: application/json',
 );
-$response_message = json_encode($response_message);
+$response_message = json_encode($response_message, JSON_PRETTY_PRINT);
 
+file_put_contents('log.txt', $response_message);
 $options = array(
     CURLOPT_URL => $url,
     CURLOPT_HTTPHEADER, $header,
