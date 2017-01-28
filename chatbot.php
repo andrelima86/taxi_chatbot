@@ -26,7 +26,7 @@ $response_message = array(
 	'recipient' => array( 'id' => $user_id, ) ,
 	'message' => array( 'text' => 'Hello world', ) ,
 );
-file_put_contents('log.txt', $user_id . ' : ' . $response_message['message'][0]['text']);
+file_put_contents('log.txt', $user_id . ' : ' . $response_message['message']['text']);
 
 // send responce to facebook
 $ch = curl_init();
