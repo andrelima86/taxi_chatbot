@@ -33,7 +33,7 @@ $ch = curl_init();
 $header = array(
     'Content-Type: application/json',
 );
-$response_message = json_encode($response_message, JSON_PRETTY_PRINT);
+$response_message = http_build_query($response_message);
 
 $options = array(
     CURLOPT_URL => $url,
