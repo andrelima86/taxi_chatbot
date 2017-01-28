@@ -28,7 +28,7 @@ $response_message = array(
 );
 
 // send responce to facebook
-$ch = curl_init();
+/*$ch = curl_init();
 
 $header = array(
     'Content-Type: application/json',
@@ -44,8 +44,12 @@ $options = array(
 
 curl_setopt_array($ch, $options);
 
-$response = curl_exec($ch);
-            
+$response = curl_exec($ch);*/
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_POST, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $response_message);
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
+curl_exec($ch);
 $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
 $curl_errno = curl_errno($ch);
 $curl_error = curl_error($ch);
