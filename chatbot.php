@@ -19,7 +19,7 @@ if(strcmp($secret_token, $received_secret_token) === 0){
 
 // process chat request
 $input = json_decode(file_get_contents('php://input') , true);
-file_put_contents('log.txt', $input);
+file_put_contents('log.txt', print_r($input, true));
 $user_id = $input['entry'][0]['messaging'][0]['sender']['id'];
 $received_message = $input['entry'][0]['messaging'][0]['message']['text'];
 $response_message = array(
