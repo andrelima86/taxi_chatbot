@@ -49,7 +49,7 @@ $response = curl_exec($ch);
 $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
 $curl_errno = curl_errno($ch);
 $curl_error = curl_error($ch);
-file_put_contents('log.txt', 'http code: ' . $http_code . ' curl error: ' . $curl_error);
+file_put_contents('log.txt', 'http code: ' . $http_code . ' curl error: ' . print_r($curl_error, true));
 
 
 
