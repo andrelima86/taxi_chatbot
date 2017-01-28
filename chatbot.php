@@ -11,3 +11,5 @@ if(strcmp($secret_token, $received_secret_token) === 0){
 	echo $challenge;
 	exit();
 }
+
+echo 'Hello world';
