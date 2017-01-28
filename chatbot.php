@@ -35,7 +35,6 @@ $header = array(
 );
 $response_message = json_encode($response_message, JSON_PRETTY_PRINT);
 
-file_put_contents('log.txt', $response_message);
 $options = array(
     CURLOPT_URL => $url,
     CURLOPT_HTTPHEADER, $header,
@@ -46,3 +45,11 @@ $options = array(
 curl_setopt_array($ch, $options);
 
 $response = curl_exec($ch);
+            
+$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+$curl_errno = curl_errno($ch);
+$curl_error = curl_error($ch);
+file_put_contents('log.txt', 'http code: ' . $http_code . ' curl error: ' . $curl_error);
+
+
+
