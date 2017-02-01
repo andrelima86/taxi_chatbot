@@ -78,8 +78,8 @@ class Chatbot
 		curl_setopt($ch, CURLOPT_HTTPHEADER, 
 			array('Authorization: Bearer ' . WIT_AI_ACCESS_TOKEN));
 
-		//$response = curl_exec($ch);
-		$response = "{
+		$response = curl_exec($ch);
+		/*$response = "{
 					  \"msg_id\" : \"98e5582d-d8b1-49fe-b457-9c354c9d2bd3\",
 					  \"_text\" : \"Hi\",
 					  \"entities\" : {
@@ -88,7 +88,7 @@ class Chatbot
 					      \"value\" : \"greeting\"
 					    } ]
 					  }
-					}";
+					}";*/
 		$this->logger->addInfo('Response from wit ai: ' . $response);
 
 		if(curl_errno($ch))
