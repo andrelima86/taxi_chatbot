@@ -1,0 +1,854 @@
+[2017-01-30 22:48:17] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 22:48:18] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 22:49:49] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 22:49:49] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 22:54:07] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 22:54:07] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:03:09] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:03:09] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:05:28] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:05:28] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:15:56] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:15:56] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:16:06] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:16:06] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:32:09] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:32:09] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:34:12] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:34:12] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:38:51] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:38:51] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:44:34] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:44:34] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:44:55] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-30 23:44:55] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-31 10:45:37] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-31 10:47:23] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-31 10:47:46] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-31 10:48:06] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-31 10:49:27] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:00:29] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:00:44] debug_logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:27:09] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:28:00] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:28:09] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:28:47] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:28:55] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:31:59] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:33:08] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:38:16] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:38:32] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:43:05] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:48:40] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:49:20] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:49:20] logger.INFO: Error: Message not found:  [] []
+[2017-01-31 11:49:54] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:49:54] logger.INFO: Error: Message not found:  [] []
+[2017-01-31 11:50:12] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:50:12] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:50:30] logger.INFO: received request in chatbot application [] []
+[2017-01-31 11:50:30] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:00:24] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:00:24] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:04:42] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:04:42] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:04:49] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:04:49] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:34:46] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:34:46] logger.INFO: Request to wit is: https://api.wit.ai/messagev=20170131&q=Hi [] []
+[2017-01-31 12:36:02] logger.INFO: Response from wit ai:  [] []
+[2017-01-31 12:36:02] logger.INFO: Error: Failed to connect to api.wit.ai port 443: Operation timed out 7 [] []
+[2017-01-31 12:36:02] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:36:02] logger.INFO: Request to wit is: https://api.wit.ai/messagev=20170131&q=Hi [] []
+[2017-01-31 12:37:17] logger.INFO: Response from wit ai:  [] []
+[2017-01-31 12:37:17] logger.INFO: Error: Failed to connect to api.wit.ai port 443: Operation timed out 7 [] []
+[2017-01-31 12:38:16] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:38:16] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-01-31 12:39:18] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:39:18] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-01-31 12:39:22] logger.INFO: Response from wit ai: {
+  "msg_id" : "e7b2b3c2-dd42-407b-a200-4ee7b0339157",
+  "_text" : "Hi",
+  "entities" : {
+    "intent" : [ {
+      "confidence" : 0.9286980026998669,
+      "value" : "greeting"
+    } ]
+  }
+} [] []
+[2017-01-31 12:39:22] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:39:22] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-01-31 12:39:23] logger.INFO: Response from wit ai: {
+  "msg_id" : "1d702a96-8911-44f9-9733-fdc5628d217f",
+  "_text" : "Hi",
+  "entities" : {
+    "intent" : [ {
+      "confidence" : 0.9286980026998669,
+      "value" : "greeting"
+    } ]
+  }
+} [] []
+[2017-01-31 12:39:31] logger.INFO: Response from wit ai:  [] []
+[2017-01-31 12:39:31] logger.INFO: Error: Failed to connect to api.wit.ai port 443: Operation timed out (7) [] []
+[2017-01-31 12:42:17] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:42:17] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-01-31 12:42:19] logger.INFO: Response from wit ai: {
+  "msg_id" : "e7d99444-bb8a-4017-a3f8-4e6165b56d34",
+  "_text" : "Hi",
+  "entities" : {
+    "intent" : [ {
+      "confidence" : 0.9286980026998669,
+      "value" : "greeting"
+    } ]
+  }
+} [] []
+[2017-01-31 12:42:19] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:42:19] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-01-31 12:42:21] logger.INFO: Response from wit ai: {
+  "msg_id" : "9858fab8-37e9-4da1-a9a3-d7c352ba1101",
+  "_text" : "Hi",
+  "entities" : {
+    "intent" : [ {
+      "confidence" : 0.9286980026998669,
+      "value" : "greeting"
+    } ]
+  }
+} [] []
+[2017-01-31 12:42:30] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:42:30] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-01-31 12:42:32] logger.INFO: Response from wit ai: {
+  "msg_id" : "bf2e6354-b0c4-453c-b28c-505604c567e8",
+  "_text" : "Hi",
+  "entities" : {
+    "intent" : [ {
+      "confidence" : 0.9286980026998669,
+      "value" : "greeting"
+    } ]
+  }
+} [] []
+[2017-01-31 12:42:32] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:42:32] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-01-31 12:42:33] logger.INFO: Response from wit ai: {
+  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+  "_text" : "Hi",
+  "entities" : {
+    "intent" : [ {
+      "confidence" : 0.9286980026998669,
+      "value" : "greeting"
+    } ]
+  }
+} [] []
+[2017-01-31 12:58:58] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:58:58] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131 [] []
+[2017-01-31 12:59:28] logger.INFO: Response from wit ai:  [] []
+[2017-01-31 12:59:28] logger.INFO: Error: Couldn't resolve host 'api.wit.ai' (6) [] []
+[2017-01-31 12:59:28] logger.INFO: received request in chatbot application [] []
+[2017-01-31 12:59:28] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131 [] []
+[2017-01-31 13:00:55] logger.INFO: Response from wit ai:  [] []
+[2017-01-31 13:00:55] logger.INFO: Error: Failed to connect to api.wit.ai port 443: Operation timed out (7) [] []
+[2017-01-31 13:53:10] logger.INFO: received request in chatbot application [] []
+[2017-01-31 13:53:10] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=0 [] []
+[2017-01-31 13:54:25] logger.INFO: Response from wit ai:  [] []
+[2017-01-31 13:54:25] logger.INFO: Error: Failed to connect to api.wit.ai port 443: Operation timed out (7) [] []
+[2017-01-31 18:28:43] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:28:43] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:30:37] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:30:37] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:30:59] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:30:59] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-01-31 18:30:59] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-01-31 18:30:59] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:30:59] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-01-31 18:30:59] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-01-31 18:42:09] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:42:09] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-01-31 18:42:09] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-01-31 18:42:09] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:42:09] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-01-31 18:42:09] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-01-31 18:44:17] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:44:17] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-01-31 18:44:17] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-01-31 18:44:17] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:44:17] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-01-31 18:44:17] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-01-31 18:44:24] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:44:24] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-01-31 18:44:24] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-01-31 18:44:24] logger.INFO: received request in chatbot application [] []
+[2017-01-31 18:44:24] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-01-31 18:44:24] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 13:44:13] logger.INFO: received request in chatbot application [] []
+[2017-02-01 13:44:13] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 13:44:13] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 13:44:13] logger.INFO: received request in chatbot application [] []
+[2017-02-01 13:44:13] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 13:44:13] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:29:02] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:29:02] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:29:32] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:29:32] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:29:32] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:29:32] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:29:32] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:29:32] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:30:02] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:30:02] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:30:02] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:30:02] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:30:02] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:30:02] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:31:36] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:31:36] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:31:36] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:31:36] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:31:36] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:31:36] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:32:02] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:32:02] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:32:02] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:32:02] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:32:02] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:32:02] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:32:18] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:32:18] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:32:18] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:32:18] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:32:18] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:32:18] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:34:28] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:34:28] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:34:28] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:34:28] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:34:28] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:34:28] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:39:35] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:39:35] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:39:35] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:39:35] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:39:35] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:39:35] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:40:25] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:40:25] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:40:25] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:40:25] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:40:25] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:40:25] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:41:12] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:41:12] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:41:12] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:41:12] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:41:12] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:41:12] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:45:46] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:45:46] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:45:46] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:45:46] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:45:46] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:45:46] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:49:17] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:49:17] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:49:17] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:49:17] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:49:17] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:49:17] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:51:01] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:51:01] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:51:01] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:51:01] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:51:01] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:51:01] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:54:29] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:54:29] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:54:29] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:54:29] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:54:29] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:54:29] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:10] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:10] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:10] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:10] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:10] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:10] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:22] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:22] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:22] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:22] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:22] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:22] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:26] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:26] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:26] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:26] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:26] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:26] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:28] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:28] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:28] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:28] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:28] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:28] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:32] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:32] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:32] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:32] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:32] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:32] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:33] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:33] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:33] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:33] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:33] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:33] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:34] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:34] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:34] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:56:34] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:56:34] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:56:34] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:57:38] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:57:38] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:57:38] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:57:38] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:57:38] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:57:38] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:57:44] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:57:44] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:57:44] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:57:44] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:57:44] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:57:44] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:57:59] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:57:59] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:57:59] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:57:59] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:57:59] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:57:59] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:58:08] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:58:08] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:58:08] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []
+[2017-02-01 22:58:08] logger.INFO: received request in chatbot application [] []
+[2017-02-01 22:58:08] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 22:58:08] logger.INFO: Response from wit ai: {
+					  "msg_id" : "98e5582d-d8b1-49fe-b457-9c354c9d2bd3",
+					  "_text" : "Hi",
+					  "entities" : {
+					    "intent" : [ {
+					      "confidence" : 0.9286980026998669,
+					      "value" : "greeting"
+					    } ]
+					  }
+					} [] []

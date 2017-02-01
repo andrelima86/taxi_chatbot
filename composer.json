@@ -1,1 +1,23 @@
-{}
+{	
+	"name": "the-bruce-wayne/chatbot",
+    "description": "taxi request chatbot",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bruce Wayne",
+            "email": "b.wayne13055@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"TaxiChatbot\\" : "src/taxiChatbot/"
+    	},
+    	"files": [
+    		"src/taxiChatbot/configs.php"
+    	]
+    }
+}
