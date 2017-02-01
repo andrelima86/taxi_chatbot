@@ -20,7 +20,7 @@ $message_array = array(
 								),
 								'timestamp' => '0',
 								'sender' => array(
-									'id' => '0'
+									'id' => '12345'
 								),
 								'recipient' => array(
 									'id' => '0'
