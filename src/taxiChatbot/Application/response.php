@@ -21,12 +21,12 @@ class Response
 
 	public function __construct(Intent $intent)
 	{
-		$text = $this->get_response($intent->intent[0]);
+		$this->user_id = $this->get_response($intent->intent[0]);
+		$this->text = $this->get_response($intent->intent[0]);
 	}
 
 	private function get_response($intent, $parameters = null)
 	{
-		echo $this->intent[$intent][rand(0, 3)];
 		return $this->intent[$intent][rand(0, 3)];
 	}
 }

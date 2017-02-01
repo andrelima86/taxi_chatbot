@@ -66,7 +66,7 @@ class Chatbot
 		// set up parameters to send 
 		$parameters = array(
 			 'v' => WIT_AI_VERSION,
-			 'q' => $message->text[0]
+			 'q' => $this->message->text[0]
 		);
 		$query_string = http_build_query($parameters);
 		$url = WIT_AI_BASE_URL . "?" . $query_string;
@@ -78,8 +78,8 @@ class Chatbot
 		curl_setopt($ch, CURLOPT_HTTPHEADER, 
 			array('Authorization: Bearer ' . WIT_AI_ACCESS_TOKEN));
 
-		//$response = curl_exec($ch);
-		$response = "{
+		$response = curl_exec($ch);
+		/*$response = "{
 						  \"msg_id\" : \"db45082c-9311-4fd5-b684-4803c5bd6568\",
 						  \"_text\" : \"hello\",
 						  \"entities\" : {
@@ -94,7 +94,7 @@ class Chatbot
 						      \"value\" : \"greeting\"
 						    } ]
 						  }
-						}";
+						}";*/
 		$this->logger->addInfo('Response from wit ai: ' . $response);
 
 		if(curl_errno($ch))
@@ -132,8 +132,8 @@ class Chatbot
 	 */
 	public function send_reply(Response $response)
 	{
-		$user_id = $this->message->user_id;
-		$text_message = $response->text;
+		echo $user_id = $this->message->user_id[0];
+		$text_message = $this->message->text[0];
 		$url = FB_BASE_URL . '?access_token=' . FB_PAGE_ACCESS_TOKEN;
 		$response_message = array(
 			'recipient' => array( 'id' => $user_id ) ,
@@ -142,8 +142,6 @@ class Chatbot
 
 		// send responce to facebook
 		$response_message = json_encode($response_message);
-		echo $url;
-		print_r($response_message);
 		$ch = curl_init($url);
 		curl_setopt($ch, CURLOPT_POST, true);
 		curl_setopt($ch, CURLOPT_POSTFIELDS, $response_message);
