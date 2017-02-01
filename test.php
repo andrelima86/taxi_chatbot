@@ -14,7 +14,7 @@ $message_array = array(
 				'messaging' => array(
 						array(
 								'message' => array(
-									'text' => 'Hi',
+									'text' => "Hi",
 									'mid' => '0',
 									'seq' => '0'
 								),

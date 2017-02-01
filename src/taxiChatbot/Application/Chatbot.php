@@ -66,7 +66,7 @@ class Chatbot
 		// set up parameters to send 
 		$parameters = array(
 			 'v' => WIT_AI_VERSION,
-			 'q' => $message->text
+			 'q' => $message->text[0]
 		);
 		$query_string = http_build_query($parameters);
 		$url = WIT_AI_BASE_URL . "?" . $query_string;
@@ -102,6 +102,9 @@ class Chatbot
 		$data = json_decode($response, true);
 		if (!is_array($data)) 
 			throw new \Exception('Unknown response: ' . $data);
+
+		if (array_key_exists('error', $data)) 
+			throw new \Exception('Error returned from wit ai: ' . $data['error']);
 
 		if (!array_key_exists('entities', $data)) 
 			throw new \Exception('No entites from wit ai: ' . print_r($data));

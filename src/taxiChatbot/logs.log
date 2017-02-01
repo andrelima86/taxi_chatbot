@@ -852,3 +852,125 @@
 					    } ]
 					  }
 					} [] []
+[2017-02-01 23:16:19] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:16:19] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 23:16:21] logger.INFO: Response from wit ai: {
+  "error" : "Message must be a string:{\"0\" \"Hi\"}",
+  "code" : "msg-invalid"
+} [] []
+[2017-02-01 23:16:21] logger.INFO: Error: No entites from wit ai: 1 [] []
+[2017-02-01 23:16:21] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:16:21] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 23:16:23] logger.INFO: Response from wit ai: {
+  "error" : "Message must be a string:{\"0\" \"Hi\"}",
+  "code" : "msg-invalid"
+} [] []
+[2017-02-01 23:16:23] logger.INFO: Error: No entites from wit ai: 1 [] []
+[2017-02-01 23:20:44] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:20:44] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 23:20:45] logger.INFO: Response from wit ai: {
+  "error" : "Message must be a string:{\"0\" \"Hi\"}",
+  "code" : "msg-invalid"
+} [] []
+[2017-02-01 23:20:45] logger.INFO: Error: No entites from wit ai: 1 [] []
+[2017-02-01 23:20:45] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:20:45] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 23:20:47] logger.INFO: Response from wit ai: {
+  "error" : "Message must be a string:{\"0\" \"Hi\"}",
+  "code" : "msg-invalid"
+} [] []
+[2017-02-01 23:20:47] logger.INFO: Error: No entites from wit ai: 1 [] []
+[2017-02-01 23:22:31] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:22:31] logger.INFO: Request to wit is: https://api.wit.ai/message?v=WIT_AI_VERSION&q=Array [] []
+[2017-02-01 23:22:32] logger.INFO: Response from wit ai: {
+  "msg_id" : "4909aa26-c2a2-4a90-ac2f-c2d5a0476197",
+  "_text" : "Array",
+  "entities" : { }
+} [] []
+[2017-02-01 23:22:32] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:22:32] logger.INFO: Request to wit is: https://api.wit.ai/message?v=WIT_AI_VERSION&q=Array [] []
+[2017-02-01 23:22:34] logger.INFO: Response from wit ai: {
+  "msg_id" : "74f66f64-5177-4570-9ca9-e968ff7bad14",
+  "_text" : "Array",
+  "entities" : { }
+} [] []
+[2017-02-01 23:23:29] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:23:29] logger.INFO: Request to wit is: https://api.wit.ai/message?v=WIT_AI_VERSION&q=Array [] []
+[2017-02-01 23:23:32] logger.INFO: Response from wit ai: {
+  "msg_id" : "518ab284-ef34-4938-ae32-473a26fbc0ea",
+  "_text" : "Array",
+  "entities" : { }
+} [] []
+[2017-02-01 23:23:32] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:23:32] logger.INFO: Request to wit is: https://api.wit.ai/message?v=WIT_AI_VERSION&q=Array [] []
+[2017-02-01 23:23:34] logger.INFO: Response from wit ai: {
+  "msg_id" : "95160dc7-85bf-4926-8d98-12f08d7d8ed7",
+  "_text" : "Array",
+  "entities" : { }
+} [] []
+[2017-02-01 23:23:43] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:23:43] logger.INFO: Request to wit is: https://api.wit.ai/message?v=WIT_AI_VERSION&q=Array [] []
+[2017-02-01 23:23:45] logger.INFO: Response from wit ai: {
+  "msg_id" : "89eb0164-a589-42b8-8ab3-2e6e96116bb0",
+  "_text" : "Array",
+  "entities" : { }
+} [] []
+[2017-02-01 23:23:45] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:23:45] logger.INFO: Request to wit is: https://api.wit.ai/message?v=WIT_AI_VERSION&q=Array [] []
+[2017-02-01 23:23:47] logger.INFO: Response from wit ai: {
+  "msg_id" : "52138de3-b0c0-412f-af1d-1a90f37e0e1d",
+  "_text" : "Array",
+  "entities" : { }
+} [] []
+[2017-02-01 23:24:52] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:24:52] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Array [] []
+[2017-02-01 23:24:54] logger.INFO: Response from wit ai: {
+  "msg_id" : "ff41052a-eab8-43c4-a092-dfb9f75ef13d",
+  "_text" : "Array",
+  "entities" : { }
+} [] []
+[2017-02-01 23:24:54] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:24:54] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Array [] []
+[2017-02-01 23:24:56] logger.INFO: Response from wit ai: {
+  "msg_id" : "66f74bcc-548f-4981-a768-21163091a526",
+  "_text" : "Array",
+  "entities" : { }
+} [] []
+[2017-02-01 23:26:47] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:26:47] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 23:26:49] logger.INFO: Response from wit ai: {
+  "error" : "Message must be a string:{\"0\" \"Hi\"}",
+  "code" : "msg-invalid"
+} [] []
+[2017-02-01 23:26:49] logger.INFO: Error: Error returned from wit ai: Message must be a string:{"0" "Hi"} [] []
+[2017-02-01 23:26:49] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:26:49] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q%5B0%5D=Hi [] []
+[2017-02-01 23:26:51] logger.INFO: Response from wit ai: {
+  "error" : "Message must be a string:{\"0\" \"Hi\"}",
+  "code" : "msg-invalid"
+} [] []
+[2017-02-01 23:26:51] logger.INFO: Error: Error returned from wit ai: Message must be a string:{"0" "Hi"} [] []
+[2017-02-01 23:28:10] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:28:10] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-01 23:28:12] logger.INFO: Response from wit ai: {
+  "msg_id" : "00bee440-a928-413b-abc5-9adb7b4400f4",
+  "_text" : "Hi",
+  "entities" : {
+    "intent" : [ {
+      "confidence" : 0.9286980026998669,
+      "value" : "greeting"
+    } ]
+  }
+} [] []
+[2017-02-01 23:28:12] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:28:12] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-01 23:28:14] logger.INFO: Response from wit ai: {
+  "msg_id" : "0de89a2d-3594-4e77-b67d-d5f3e797dd0c",
+  "_text" : "Hi",
+  "entities" : {
+    "intent" : [ {
+      "confidence" : 0.9286980026998669,
+      "value" : "greeting"
+    } ]
+  }
+} [] []
