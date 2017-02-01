@@ -132,9 +132,9 @@ class Chatbot
 	 */
 	public function send_reply(Response $response)
 	{
-		$user_id = $response->user_id;
-		$text_message = $response->text_message;
-		$url = $this->fb_url . '?access_token=' . $this->fb_access_token;
+		$user_id = $this->message->user_id;
+		$text_message = $response->text;
+		$url = FB_BASE_URL . '?access_token=' . $this->fb_access_token;
 		$response_message = array(
 			'recipient' => array( 'id' => $user_id ) ,
 			'message' => array( 'text' => $text_message ) ,
