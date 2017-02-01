@@ -28,7 +28,7 @@ class Chatbot
         $hubVerifyToken = $REQUEST['hub_verify_token'];
         $hubChallenge = $REQUEST['hub_challenge'];
 
-        if (isset($hubChallenge) && $hubVerifyToken == $this->webhook_verify_token) 
+        if (isset($hubChallenge) && $hubVerifyToken == CHATBOT_SECRET) 
         {
             echo $hubChallenge;
             exit();
