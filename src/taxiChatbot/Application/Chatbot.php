@@ -132,7 +132,7 @@ class Chatbot
 	 */
 	public function send_reply(Response $response)
 	{
-		echo $user_id = $this->message->user_id[0];
+		$user_id = $this->message->user_id[0];
 		$text_message = $response->text;
 		$url = FB_BASE_URL . '?access_token=' . FB_PAGE_ACCESS_TOKEN;
 		$response_message = array(
@@ -142,8 +142,7 @@ class Chatbot
 
 		// send responce to facebook
 		$response_message = json_encode($response_message);
-		//echo $url;
-		print_r($response_message);
+		$this->logger->addInfo('Payload to fb: ' . $response_message);
 		$ch = curl_init($url);
 		curl_setopt($ch, CURLOPT_POST, true);
 		curl_setopt($ch, CURLOPT_POSTFIELDS, $response_message);
