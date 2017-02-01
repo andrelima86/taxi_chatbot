@@ -974,3 +974,649 @@
     } ]
   }
 } [] []
+[2017-02-01 23:59:27] logger.INFO: received request in chatbot application [] []
+[2017-02-01 23:59:27] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:00:19] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:00:19] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:02:42] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:02:42] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:03:15] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:03:15] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:03:15] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:03:16] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:03:16] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:03:16] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:03:16] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:03:16] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:05:36] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:05:36] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:05:36] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:05:36] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:05:36] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:05:36] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:05:50] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:05:50] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:05:50] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:05:50] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:05:50] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:05:50] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:05:50] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:05:50] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:06:36] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:06:36] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:06:36] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:06:36] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:06:36] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:06:36] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:06:36] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:06:36] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:07:09] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:07:09] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:07:09] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:07:09] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:07:09] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:07:09] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:07:09] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:07:09] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:07:27] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:07:27] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:07:27] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:07:27] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:07:27] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:07:27] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:07:27] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:07:27] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:09:58] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:09:58] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:09:58] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:09:58] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:09:58] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:09:58] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:09:58] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:09:58] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:12:36] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:12:36] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:12:36] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:12:36] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:12:36] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:12:36] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:12:42] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:12:42] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:12:42] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:12:42] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:12:42] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:12:42] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:13:38] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:13:38] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:13:38] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:13:38] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:13:38] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:13:38] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:13:38] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:13:38] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:17:51] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:17:51] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:17:51] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:17:51] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:17:51] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:17:51] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:17:51] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:17:51] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:22:02] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:22:02] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:22:02] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:22:02] logger.INFO: Error: variable wit_entites not defined [] []
+[2017-02-02 00:22:02] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:22:02] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:22:02] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:22:02] logger.INFO: Error: variable wit_entites not defined [] []
+[2017-02-02 00:22:55] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:22:55] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:22:55] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:22:55] logger.INFO: Error: variable wit_entites not defined [] []
+[2017-02-02 00:22:55] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:22:55] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:22:55] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:22:55] logger.INFO: Error: variable wit_entites not defined [] []
+[2017-02-02 00:23:27] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:23:27] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:23:27] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:23:27] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:23:27] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:23:27] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:23:27] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:23:27] logger.INFO: Error: variable intent not defined [] []
+[2017-02-02 00:27:22] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:27:22] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:27:22] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:27:22] logger.INFO: Error: <url> malformed (3) [] []
+[2017-02-02 00:27:22] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:27:22] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:27:22] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:27:22] logger.INFO: Error: <url> malformed (3) [] []
+[2017-02-02 00:27:49] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:27:49] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:27:49] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:27:49] logger.INFO: Error: <url> malformed (3) [] []
+[2017-02-02 00:27:49] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:27:49] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:27:49] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:27:49] logger.INFO: Error: <url> malformed (3) [] []
+[2017-02-02 00:28:39] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:28:39] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:28:39] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:28:39] logger.INFO: Error: <url> malformed (3) [] []
+[2017-02-02 00:28:39] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:28:39] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:28:39] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:28:39] logger.INFO: Error: <url> malformed (3) [] []

@@ -17,8 +17,8 @@ class Intent
 
 	private function filter(array $wit_entites, $percentage)
 	{
-		foreach ($wit_entites as $individual_entities_array) 
-		{
+		foreach ($wit_entites as $entity_key => $individual_entities_array) 
+		{ 
 			$final_array = array();
 			foreach ($individual_entities_array as $key => $value) 
 			{
@@ -26,8 +26,9 @@ class Intent
 					array_push($final_array, $value['value']);
 				
 			}
-			$this->entities[key($wit_entites)] = $final_array;
+			$this->entities[$entity_key] = $final_array;
 		}
+		
 	}
 
 	public function __get($var_name)
@@ -36,7 +37,7 @@ class Intent
 		if (!array_key_exists($var_name,$this->entities))
 		{
           //this attribute is not defined!
-          throw new Exception("variable $var_name not defined");
+          throw new \Exception("variable $var_name not defined");
       	}
       	else return $this->entities[$var_name];
 	}

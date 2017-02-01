@@ -78,17 +78,23 @@ class Chatbot
 		curl_setopt($ch, CURLOPT_HTTPHEADER, 
 			array('Authorization: Bearer ' . WIT_AI_ACCESS_TOKEN));
 
-		$response = curl_exec($ch);
-		/*$response = "{
-					  \"msg_id\" : \"98e5582d-d8b1-49fe-b457-9c354c9d2bd3\",
-					  \"_text\" : \"Hi\",
-					  \"entities\" : {
-					    \"intent\" : [ {
-					      \"confidence\" : 0.9286980026998669,
-					      \"value\" : \"greeting\"
-					    } ]
-					  }
-					}";*/
+		//$response = curl_exec($ch);
+		$response = "{
+						  \"msg_id\" : \"db45082c-9311-4fd5-b684-4803c5bd6568\",
+						  \"_text\" : \"hello\",
+						  \"entities\" : {
+						    \"local_search_query\" : [ {
+						      \"confidence\" : 0.7306822444917643,
+						      \"type\" : \"value\",
+						      \"value\" : \"hello\",
+						      \"suggested\" : true
+						    } ],
+						    \"intent\" : [ {
+						      \"confidence\" : 0.9782772967406987,
+						      \"value\" : \"greeting\"
+						    } ]
+						  }
+						}";
 		$this->logger->addInfo('Response from wit ai: ' . $response);
 
 		if(curl_errno($ch))
