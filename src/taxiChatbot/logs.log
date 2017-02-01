@@ -1694,3 +1694,39 @@
 						    } ]
 						  }
 						} [] []
+[2017-02-02 00:39:54] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:39:54] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:39:54] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []
+[2017-02-02 00:39:56] logger.INFO: received request in chatbot application [] []
+[2017-02-02 00:39:56] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hi [] []
+[2017-02-02 00:39:56] logger.INFO: Response from wit ai: {
+						  "msg_id" : "db45082c-9311-4fd5-b684-4803c5bd6568",
+						  "_text" : "hello",
+						  "entities" : {
+						    "local_search_query" : [ {
+						      "confidence" : 0.7306822444917643,
+						      "type" : "value",
+						      "value" : "hello",
+						      "suggested" : true
+						    } ],
+						    "intent" : [ {
+						      "confidence" : 0.9782772967406987,
+						      "value" : "greeting"
+						    } ]
+						  }
+						} [] []

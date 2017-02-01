@@ -134,7 +134,7 @@ class Chatbot
 	{
 		$user_id = $this->message->user_id;
 		$text_message = $response->text;
-		$url = FB_BASE_URL . '?access_token=' . $this->fb_access_token;
+		$url = FB_BASE_URL . '?access_token=' . FB_PAGE_ACCESS_TOKEN;
 		$response_message = array(
 			'recipient' => array( 'id' => $user_id ) ,
 			'message' => array( 'text' => $text_message ) ,
@@ -142,6 +142,8 @@ class Chatbot
 
 		// send responce to facebook
 		$response_message = json_encode($response_message);
+		echo $url;
+		print_r($response_message);
 		$ch = curl_init($url);
 		curl_setopt($ch, CURLOPT_POST, true);
 		curl_setopt($ch, CURLOPT_POSTFIELDS, $response_message);
