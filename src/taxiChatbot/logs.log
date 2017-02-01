@@ -2166,3 +2166,41 @@
   }
 } [] []
 [2017-02-02 01:01:41] logger.INFO: Payload to fb: {"recipient":{"id":"12345"},"message":{"text":"Where can we take you today?"}} [] []
+[2017-02-02 01:03:03] logger.INFO: received request in chatbot application [] []
+[2017-02-02 01:03:03] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hello [] []
+[2017-02-02 01:03:05] logger.INFO: Response from wit ai: {
+  "msg_id" : "ff949181-8522-43c7-88ac-728f45a0b279",
+  "_text" : "Hello",
+  "entities" : {
+    "local_search_query" : [ {
+      "confidence" : 0.7306822444917643,
+      "type" : "value",
+      "value" : "Hello",
+      "suggested" : true
+    } ],
+    "intent" : [ {
+      "confidence" : 0.9782772967406987,
+      "value" : "greeting"
+    } ]
+  }
+} [] []
+[2017-02-02 01:03:05] logger.INFO: Payload to fb: {"recipient":{"id":"12345"},"message":{"text":null}} [] []
+[2017-02-02 01:03:06] logger.INFO: received request in chatbot application [] []
+[2017-02-02 01:03:06] logger.INFO: Request to wit is: https://api.wit.ai/message?v=20170131&q=Hello [] []
+[2017-02-02 01:03:08] logger.INFO: Response from wit ai: {
+  "msg_id" : "b6057531-bad2-4f30-a1a9-4e623bf2fc03",
+  "_text" : "Hello",
+  "entities" : {
+    "local_search_query" : [ {
+      "confidence" : 0.7306822444917643,
+      "type" : "value",
+      "value" : "Hello",
+      "suggested" : true
+    } ],
+    "intent" : [ {
+      "confidence" : 0.9782772967406987,
+      "value" : "greeting"
+    } ]
+  }
+} [] []
+[2017-02-02 01:03:08] logger.INFO: Payload to fb: {"recipient":{"id":"12345"},"message":{"text":null}} [] []

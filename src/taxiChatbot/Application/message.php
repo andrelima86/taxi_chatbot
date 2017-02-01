@@ -18,7 +18,6 @@ class Message
 		foreach ($data['entry'][0]['messaging'] as $message) {
 			if(array_key_exists('is_echo', $message['message']))
 			{
-				$this->logger->addInfo('this is an echo');
 				exit();
 			}
 			array_push($this->seq, $message['message']['seq']);
