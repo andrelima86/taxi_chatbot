@@ -119,6 +119,7 @@ class Chatbot
 	public function generate_response(Intent $intent)
 	{
 		$response = new Response($intent);
+		return $response;
 	}
 	/**
 	 * Post response to fb
