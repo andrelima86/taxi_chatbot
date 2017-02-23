@@ -74,19 +74,24 @@ class Chatbot
 
 		// send the request
 		$ch = curl_init($url);
+
+		// for proxy server at UZ
+		$proxy = 'proxy.uz.ac.zw:3128';
+		curl_setopt($ch, CURLOPT_PROXY, $proxy);
+
+
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 		curl_setopt($ch, CURLOPT_HTTPHEADER, 
 			array('Authorization: Bearer ' . WIT_AI_ACCESS_TOKEN));
 
-		$response = curl_exec($ch);
-		/*$response = "{
+		$response = "{
 						  \"msg_id\" : \"db45082c-9311-4fd5-b684-4803c5bd6568\",
 						  \"_text\" : \"hello\",
 						  \"entities\" : {
-						    \"local_search_query\" : [ {
+						    \"contact\" : [ {
 						      \"confidence\" : 0.7306822444917643,
 						      \"type\" : \"value\",
-						      \"value\" : \"hello\",
+						      \"value\" : \"fox\",
 						      \"suggested\" : true
 						    } ],
 						    \"intent\" : [ {
@@ -94,7 +99,8 @@ class Chatbot
 						      \"value\" : \"greeting\"
 						    } ]
 						  }
-						}";*/
+						}";
+		$response = curl_exec($ch);				
 		$this->logger->addInfo('Response from wit ai: ' . $response);
 
 		if(curl_errno($ch))
@@ -119,15 +125,6 @@ class Chatbot
 		return $this->intent;
 	}
 	/**
-	 * Generate response to user based on perceived message intent 
-	 *
-	 */
-	public function generate_response(Intent $intent)
-	{
-		$response = new Response($intent);
-		return $response;
-	}
-	/**
 	 * Post response to fb
 	 */
 	public function send_reply(Response $response)
@@ -144,6 +141,12 @@ class Chatbot
 		$response_message = json_encode($response_message);
 		$this->logger->addInfo('Payload to fb: ' . $response_message);
 		$ch = curl_init($url);
+
+		// for proxy server at UZ
+		$proxy = 'proxy.uz.ac.zw:3128';
+		curl_setopt($ch, CURLOPT_PROXY, $proxy);
+
+		
 		curl_setopt($ch, CURLOPT_POST, true);
 		curl_setopt($ch, CURLOPT_POSTFIELDS, $response_message);
 		curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));

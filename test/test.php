@@ -1,5 +1,12 @@
 <?php
-$url = 'http://localhost:8888/chatbot/';
+
+$text = "I need to go to 9 Dundee rd Eastlea from town";
+
+// for local server ui tests
+if (isset($_POST['user_msg'])) 
+	$text = $_POST['user_msg'];
+
+$url = 'http://127.0.0.1/chatbot/index.php';
 $header = array(
     'Content-Type: application/json',
 );
@@ -14,13 +21,13 @@ $message_array = array(
 				'messaging' => array(
 						array(
 								'message' => array(
-									'text' => "Hello",
+									'text' => $text,
 									'mid' => '0',
 									'seq' => '0'
 								),
 								'timestamp' => '0',
 								'sender' => array(
-									'id' => '12345'
+									'id' => '12345678'
 								),
 								'recipient' => array(
 									'id' => '0'

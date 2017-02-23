@@ -10,7 +10,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "monolog/monolog": "1.0.*"
+        "monolog/monolog": "1.0.*",
+        "ext-mysql": "*"
     },
     "autoload": {
     	"psr-4": {
